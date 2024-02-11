@@ -2,15 +2,15 @@
 travel project
 ### Hi there 👋, my name is sara
 #### I am GitHub Readme Generator's creator
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Developed by Sara Mousavi
+
+Created - 2024-02-11
+
+Skills: / HTML / CSS
 
 - 🔭 I’m currently working on this page.
-- ![viewfinal](https://saaramousavi.github.io/travel/))
-
-![viewfinal](https://saaramousavi.github.io/travel/)
-
+- 
 - [Demo Project](https://saaramousavi.github.io/travel/)
 
 
